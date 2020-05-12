@@ -18,9 +18,12 @@ Create a lambda function in AWS and make a connection from the function to our s
 Create a API in AWS API Gateway Console which will have capabailities of POST method and will be invoking our lambda function.
 Once the above steps are done we will have Link ready to which if we send an request with our review text we will get rating as response.
 
-I have done the above steps and the code for lambda function is given below.
+I have done the above steps and the code for lambda function is given in repo.
+
 
 Now we have done most of the heavy work We just will create an HTML Page which will have have an input box and once user Enters text and clicks button we will send the text to our API and will show the response to the user.
+
+
 
 
 
