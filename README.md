@@ -1,6 +1,6 @@
 # DM_Term_Project
 Data Mining Term Project
-So finally now we have a model ready and as I have said in the starting we will also see how to create a cool web app where we will try to predict rating on a given preview
+Below are deployment steps for creating a web application using AmazonAWS endpoint
 There are many way we can deploy the model and create an web app but today we will learn how to deploy a model in Amazon Web Services.
 Before we proceed further let me tell you the reason why I choose AWS. AWS provides you with a very robust network and the downtime of AWS is almost 0 hence I choose AWS.
 
